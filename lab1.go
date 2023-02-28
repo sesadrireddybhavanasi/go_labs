@@ -33,10 +33,10 @@ func main(){
 	//conditional statment example with slice
 	 pin := []int{1, 3}
 	if len(pin)>4{
-		fmt.Println("you entered the correct password pin:")
+		fmt.Println("you entered the correct password pin")
 		
 	}else {
-		fmt.Println("you entered the password pin not less then 4 numbers:")
+		fmt.Println("you entered the password pin not less then 4 numbers")
 	}
 	
 }
